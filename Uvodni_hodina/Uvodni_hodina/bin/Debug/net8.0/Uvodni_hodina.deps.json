@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Uvodni_hodina/1.0.0": {
+        "runtime": {
+          "Uvodni_hodina.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Uvodni_hodina/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
