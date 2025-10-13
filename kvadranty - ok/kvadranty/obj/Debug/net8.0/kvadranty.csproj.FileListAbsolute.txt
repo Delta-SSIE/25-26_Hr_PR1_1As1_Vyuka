@@ -1,0 +1,14 @@
+C:\Users\admin\Desktop\delta materialy\24_25\1. rocnik\kody_cvicebnice\okruh2\kvadranty - ok\kvadranty\bin\Debug\net8.0\kvadranty.exe
+C:\Users\admin\Desktop\delta materialy\24_25\1. rocnik\kody_cvicebnice\okruh2\kvadranty - ok\kvadranty\bin\Debug\net8.0\kvadranty.deps.json
+C:\Users\admin\Desktop\delta materialy\24_25\1. rocnik\kody_cvicebnice\okruh2\kvadranty - ok\kvadranty\bin\Debug\net8.0\kvadranty.runtimeconfig.json
+C:\Users\admin\Desktop\delta materialy\24_25\1. rocnik\kody_cvicebnice\okruh2\kvadranty - ok\kvadranty\bin\Debug\net8.0\kvadranty.dll
+C:\Users\admin\Desktop\delta materialy\24_25\1. rocnik\kody_cvicebnice\okruh2\kvadranty - ok\kvadranty\bin\Debug\net8.0\kvadranty.pdb
+C:\Users\admin\Desktop\delta materialy\24_25\1. rocnik\kody_cvicebnice\okruh2\kvadranty - ok\kvadranty\obj\Debug\net8.0\kvadranty.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\delta materialy\24_25\1. rocnik\kody_cvicebnice\okruh2\kvadranty - ok\kvadranty\obj\Debug\net8.0\kvadranty.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\delta materialy\24_25\1. rocnik\kody_cvicebnice\okruh2\kvadranty - ok\kvadranty\obj\Debug\net8.0\kvadranty.AssemblyInfo.cs
+C:\Users\admin\Desktop\delta materialy\24_25\1. rocnik\kody_cvicebnice\okruh2\kvadranty - ok\kvadranty\obj\Debug\net8.0\kvadranty.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\delta materialy\24_25\1. rocnik\kody_cvicebnice\okruh2\kvadranty - ok\kvadranty\obj\Debug\net8.0\kvadranty.dll
+C:\Users\admin\Desktop\delta materialy\24_25\1. rocnik\kody_cvicebnice\okruh2\kvadranty - ok\kvadranty\obj\Debug\net8.0\refint\kvadranty.dll
+C:\Users\admin\Desktop\delta materialy\24_25\1. rocnik\kody_cvicebnice\okruh2\kvadranty - ok\kvadranty\obj\Debug\net8.0\kvadranty.pdb
+C:\Users\admin\Desktop\delta materialy\24_25\1. rocnik\kody_cvicebnice\okruh2\kvadranty - ok\kvadranty\obj\Debug\net8.0\kvadranty.genruntimeconfig.cache
+C:\Users\admin\Desktop\delta materialy\24_25\1. rocnik\kody_cvicebnice\okruh2\kvadranty - ok\kvadranty\obj\Debug\net8.0\ref\kvadranty.dll
