@@ -1,0 +1,15 @@
+C:\Users\admin\Desktop\delta materialy\_25_26\1. rocnik\kody_z_hodin\25-26_Hr_PR1_1As1_Vyuka\HodKostkou\HodKostkou\bin\Debug\net8.0\HodKostkou.exe
+C:\Users\admin\Desktop\delta materialy\_25_26\1. rocnik\kody_z_hodin\25-26_Hr_PR1_1As1_Vyuka\HodKostkou\HodKostkou\bin\Debug\net8.0\HodKostkou.deps.json
+C:\Users\admin\Desktop\delta materialy\_25_26\1. rocnik\kody_z_hodin\25-26_Hr_PR1_1As1_Vyuka\HodKostkou\HodKostkou\bin\Debug\net8.0\HodKostkou.runtimeconfig.json
+C:\Users\admin\Desktop\delta materialy\_25_26\1. rocnik\kody_z_hodin\25-26_Hr_PR1_1As1_Vyuka\HodKostkou\HodKostkou\bin\Debug\net8.0\HodKostkou.dll
+C:\Users\admin\Desktop\delta materialy\_25_26\1. rocnik\kody_z_hodin\25-26_Hr_PR1_1As1_Vyuka\HodKostkou\HodKostkou\bin\Debug\net8.0\HodKostkou.pdb
+C:\Users\admin\Desktop\delta materialy\_25_26\1. rocnik\kody_z_hodin\25-26_Hr_PR1_1As1_Vyuka\HodKostkou\HodKostkou\obj\Debug\net8.0\HodKostkou.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\delta materialy\_25_26\1. rocnik\kody_z_hodin\25-26_Hr_PR1_1As1_Vyuka\HodKostkou\HodKostkou\obj\Debug\net8.0\HodKostkou.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\delta materialy\_25_26\1. rocnik\kody_z_hodin\25-26_Hr_PR1_1As1_Vyuka\HodKostkou\HodKostkou\obj\Debug\net8.0\HodKostkou.AssemblyInfo.cs
+C:\Users\admin\Desktop\delta materialy\_25_26\1. rocnik\kody_z_hodin\25-26_Hr_PR1_1As1_Vyuka\HodKostkou\HodKostkou\obj\Debug\net8.0\HodKostkou.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\delta materialy\_25_26\1. rocnik\kody_z_hodin\25-26_Hr_PR1_1As1_Vyuka\HodKostkou\HodKostkou\obj\Debug\net8.0\HodKostkou.sourcelink.json
+C:\Users\admin\Desktop\delta materialy\_25_26\1. rocnik\kody_z_hodin\25-26_Hr_PR1_1As1_Vyuka\HodKostkou\HodKostkou\obj\Debug\net8.0\HodKostkou.dll
+C:\Users\admin\Desktop\delta materialy\_25_26\1. rocnik\kody_z_hodin\25-26_Hr_PR1_1As1_Vyuka\HodKostkou\HodKostkou\obj\Debug\net8.0\refint\HodKostkou.dll
+C:\Users\admin\Desktop\delta materialy\_25_26\1. rocnik\kody_z_hodin\25-26_Hr_PR1_1As1_Vyuka\HodKostkou\HodKostkou\obj\Debug\net8.0\HodKostkou.pdb
+C:\Users\admin\Desktop\delta materialy\_25_26\1. rocnik\kody_z_hodin\25-26_Hr_PR1_1As1_Vyuka\HodKostkou\HodKostkou\obj\Debug\net8.0\HodKostkou.genruntimeconfig.cache
+C:\Users\admin\Desktop\delta materialy\_25_26\1. rocnik\kody_z_hodin\25-26_Hr_PR1_1As1_Vyuka\HodKostkou\HodKostkou\obj\Debug\net8.0\ref\HodKostkou.dll
