@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("HledaniMinima")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d14c3880d2e2f01e461fafe1cda6d33b493a7361")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ce79fc6b47ec05ce3e894239c1a9cfd2b7e6ecee")]
 [assembly: System.Reflection.AssemblyProductAttribute("HledaniMinima")]
 [assembly: System.Reflection.AssemblyTitleAttribute("HledaniMinima")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
