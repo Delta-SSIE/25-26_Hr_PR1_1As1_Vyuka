@@ -1,0 +1,15 @@
+C:\Users\admin\Desktop\delta materialy\_25_26\1. rocnik\kody_z_hodin\25-26_Hr_PR1_1As1_Vyuka\palindrom\palindrom\bin\Debug\net8.0\palindrom.exe
+C:\Users\admin\Desktop\delta materialy\_25_26\1. rocnik\kody_z_hodin\25-26_Hr_PR1_1As1_Vyuka\palindrom\palindrom\bin\Debug\net8.0\palindrom.deps.json
+C:\Users\admin\Desktop\delta materialy\_25_26\1. rocnik\kody_z_hodin\25-26_Hr_PR1_1As1_Vyuka\palindrom\palindrom\bin\Debug\net8.0\palindrom.runtimeconfig.json
+C:\Users\admin\Desktop\delta materialy\_25_26\1. rocnik\kody_z_hodin\25-26_Hr_PR1_1As1_Vyuka\palindrom\palindrom\bin\Debug\net8.0\palindrom.dll
+C:\Users\admin\Desktop\delta materialy\_25_26\1. rocnik\kody_z_hodin\25-26_Hr_PR1_1As1_Vyuka\palindrom\palindrom\bin\Debug\net8.0\palindrom.pdb
+C:\Users\admin\Desktop\delta materialy\_25_26\1. rocnik\kody_z_hodin\25-26_Hr_PR1_1As1_Vyuka\palindrom\palindrom\obj\Debug\net8.0\palindrom.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\delta materialy\_25_26\1. rocnik\kody_z_hodin\25-26_Hr_PR1_1As1_Vyuka\palindrom\palindrom\obj\Debug\net8.0\palindrom.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\delta materialy\_25_26\1. rocnik\kody_z_hodin\25-26_Hr_PR1_1As1_Vyuka\palindrom\palindrom\obj\Debug\net8.0\palindrom.AssemblyInfo.cs
+C:\Users\admin\Desktop\delta materialy\_25_26\1. rocnik\kody_z_hodin\25-26_Hr_PR1_1As1_Vyuka\palindrom\palindrom\obj\Debug\net8.0\palindrom.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\delta materialy\_25_26\1. rocnik\kody_z_hodin\25-26_Hr_PR1_1As1_Vyuka\palindrom\palindrom\obj\Debug\net8.0\palindrom.sourcelink.json
+C:\Users\admin\Desktop\delta materialy\_25_26\1. rocnik\kody_z_hodin\25-26_Hr_PR1_1As1_Vyuka\palindrom\palindrom\obj\Debug\net8.0\palindrom.dll
+C:\Users\admin\Desktop\delta materialy\_25_26\1. rocnik\kody_z_hodin\25-26_Hr_PR1_1As1_Vyuka\palindrom\palindrom\obj\Debug\net8.0\refint\palindrom.dll
+C:\Users\admin\Desktop\delta materialy\_25_26\1. rocnik\kody_z_hodin\25-26_Hr_PR1_1As1_Vyuka\palindrom\palindrom\obj\Debug\net8.0\palindrom.pdb
+C:\Users\admin\Desktop\delta materialy\_25_26\1. rocnik\kody_z_hodin\25-26_Hr_PR1_1As1_Vyuka\palindrom\palindrom\obj\Debug\net8.0\palindrom.genruntimeconfig.cache
+C:\Users\admin\Desktop\delta materialy\_25_26\1. rocnik\kody_z_hodin\25-26_Hr_PR1_1As1_Vyuka\palindrom\palindrom\obj\Debug\net8.0\ref\palindrom.dll
