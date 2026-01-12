@@ -2,6 +2,7 @@
 {
     internal class Program
     {
+       
         static void Main(string[] args)
         {
             int[,] matice;
@@ -21,6 +22,7 @@
             matice = new int[radky, sloupce];
             matice = NaplnMatici(radky,sloupce); //vyplnena matice se doplni do matice prazdne
             VypisMatici(matice);
+            VratPrvek(matice);
         }
 
         static int[,] NaplnMatici(int pocetr, int pocets)
@@ -47,6 +49,24 @@
                 }
                 Console.WriteLine();
             }
+        }
+                static void VratPrvek(int[,] matice)
+        {
+            Console.WriteLine("Zadej cislo radku:");
+            int radek;
+            while(int.TryParse(Console.ReadLine(),out radek)==false || radek<0 || radek > matice.GetLength(0))
+            {
+                Console.WriteLine("Zadej znovu");
+            }
+
+            Console.WriteLine("Zadej cislo sloupce:");
+            int sloupec;
+            while (int.TryParse(Console.ReadLine(), out sloupec) == false || sloupec < 0 || sloupec > matice.GetLength(0))
+            {
+                Console.WriteLine("Zadej znovu");
+            }
+
+            Console.WriteLine("Vypsany prvek je: " + matice[radek - 1, sloupec - 1]);
         }
     }
 }

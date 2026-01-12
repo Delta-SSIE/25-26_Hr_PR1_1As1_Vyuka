@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Matice_Metody")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8b7000f87d857b9f61e659a2d9e0f8f0b77311e1")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b737a77be8ae718ebf58ffc12d5947ac743a94cd")]
 [assembly: System.Reflection.AssemblyProductAttribute("Matice_Metody")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Matice_Metody")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
