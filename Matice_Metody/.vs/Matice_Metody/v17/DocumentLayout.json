@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\admin\\Desktop\\delta materialy\\_25_26\\1. rocnik\\kody_z_hodin\\25-26_Hr_PR1_1As1_Vyuka\\Matice_Metody\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{65AA3A92-4EAF-46B6-BCF0-4D556A638640}|Matice_Metody\\Matice_Metody.csproj|c:\\users\\admin\\desktop\\delta materialy\\_25_26\\1. rocnik\\kody_z_hodin\\25-26_hr_pr1_1as1_vyuka\\matice_metody\\matice_metody\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65AA3A92-4EAF-46B6-BCF0-4D556A638640}|Matice_Metody\\Matice_Metody.csproj|solutionrelative:matice_metody\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\delta materialy\\_25_26\\1. rocnik\\kody_z_hodin\\25-26_Hr_PR1_1As1_Vyuka\\Matice_Metody\\Matice_Metody\\Program.cs",
+              "RelativeDocumentMoniker": "Matice_Metody\\Program.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\delta materialy\\_25_26\\1. rocnik\\kody_z_hodin\\25-26_Hr_PR1_1As1_Vyuka\\Matice_Metody\\Matice_Metody\\Program.cs",
+              "RelativeToolTip": "Matice_Metody\\Program.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAAABYAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-12T11:16:21.736Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

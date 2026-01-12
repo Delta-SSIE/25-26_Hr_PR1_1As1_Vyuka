@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Matice_Metody/1.0.0": {
+        "runtime": {
+          "Matice_Metody.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Matice_Metody/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
