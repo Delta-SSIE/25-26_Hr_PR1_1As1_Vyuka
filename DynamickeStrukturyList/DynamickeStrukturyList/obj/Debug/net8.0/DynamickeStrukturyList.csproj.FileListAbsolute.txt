@@ -1,0 +1,15 @@
+C:\Users\admin\Desktop\delta materialy\_25_26\1. rocnik\kody_z_hodin\25-26_Hr_PR1_1As1_Vyuka\DynamickeStrukturyList\DynamickeStrukturyList\bin\Debug\net8.0\DynamickeStrukturyList.exe
+C:\Users\admin\Desktop\delta materialy\_25_26\1. rocnik\kody_z_hodin\25-26_Hr_PR1_1As1_Vyuka\DynamickeStrukturyList\DynamickeStrukturyList\bin\Debug\net8.0\DynamickeStrukturyList.deps.json
+C:\Users\admin\Desktop\delta materialy\_25_26\1. rocnik\kody_z_hodin\25-26_Hr_PR1_1As1_Vyuka\DynamickeStrukturyList\DynamickeStrukturyList\bin\Debug\net8.0\DynamickeStrukturyList.runtimeconfig.json
+C:\Users\admin\Desktop\delta materialy\_25_26\1. rocnik\kody_z_hodin\25-26_Hr_PR1_1As1_Vyuka\DynamickeStrukturyList\DynamickeStrukturyList\bin\Debug\net8.0\DynamickeStrukturyList.dll
+C:\Users\admin\Desktop\delta materialy\_25_26\1. rocnik\kody_z_hodin\25-26_Hr_PR1_1As1_Vyuka\DynamickeStrukturyList\DynamickeStrukturyList\bin\Debug\net8.0\DynamickeStrukturyList.pdb
+C:\Users\admin\Desktop\delta materialy\_25_26\1. rocnik\kody_z_hodin\25-26_Hr_PR1_1As1_Vyuka\DynamickeStrukturyList\DynamickeStrukturyList\obj\Debug\net8.0\DynamickeStrukturyList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\delta materialy\_25_26\1. rocnik\kody_z_hodin\25-26_Hr_PR1_1As1_Vyuka\DynamickeStrukturyList\DynamickeStrukturyList\obj\Debug\net8.0\DynamickeStrukturyList.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\delta materialy\_25_26\1. rocnik\kody_z_hodin\25-26_Hr_PR1_1As1_Vyuka\DynamickeStrukturyList\DynamickeStrukturyList\obj\Debug\net8.0\DynamickeStrukturyList.AssemblyInfo.cs
+C:\Users\admin\Desktop\delta materialy\_25_26\1. rocnik\kody_z_hodin\25-26_Hr_PR1_1As1_Vyuka\DynamickeStrukturyList\DynamickeStrukturyList\obj\Debug\net8.0\DynamickeStrukturyList.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\delta materialy\_25_26\1. rocnik\kody_z_hodin\25-26_Hr_PR1_1As1_Vyuka\DynamickeStrukturyList\DynamickeStrukturyList\obj\Debug\net8.0\DynamickeStrukturyList.sourcelink.json
+C:\Users\admin\Desktop\delta materialy\_25_26\1. rocnik\kody_z_hodin\25-26_Hr_PR1_1As1_Vyuka\DynamickeStrukturyList\DynamickeStrukturyList\obj\Debug\net8.0\DynamickeStrukturyList.dll
+C:\Users\admin\Desktop\delta materialy\_25_26\1. rocnik\kody_z_hodin\25-26_Hr_PR1_1As1_Vyuka\DynamickeStrukturyList\DynamickeStrukturyList\obj\Debug\net8.0\refint\DynamickeStrukturyList.dll
+C:\Users\admin\Desktop\delta materialy\_25_26\1. rocnik\kody_z_hodin\25-26_Hr_PR1_1As1_Vyuka\DynamickeStrukturyList\DynamickeStrukturyList\obj\Debug\net8.0\DynamickeStrukturyList.pdb
+C:\Users\admin\Desktop\delta materialy\_25_26\1. rocnik\kody_z_hodin\25-26_Hr_PR1_1As1_Vyuka\DynamickeStrukturyList\DynamickeStrukturyList\obj\Debug\net8.0\DynamickeStrukturyList.genruntimeconfig.cache
+C:\Users\admin\Desktop\delta materialy\_25_26\1. rocnik\kody_z_hodin\25-26_Hr_PR1_1As1_Vyuka\DynamickeStrukturyList\DynamickeStrukturyList\obj\Debug\net8.0\ref\DynamickeStrukturyList.dll

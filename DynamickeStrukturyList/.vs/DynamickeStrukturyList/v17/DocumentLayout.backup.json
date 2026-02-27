@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\admin\\Desktop\\delta materialy\\_25_26\\1. rocnik\\kody_z_hodin\\25-26_Hr_PR1_1As1_Vyuka\\DynamickeStrukturyList\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B85D8954-72F5-45EB-866B-E8CBD87947D5}|DynamickeStrukturyList\\DynamickeStrukturyList.csproj|c:\\users\\admin\\desktop\\delta materialy\\_25_26\\1. rocnik\\kody_z_hodin\\25-26_hr_pr1_1as1_vyuka\\dynamickestrukturylist\\dynamickestrukturylist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B85D8954-72F5-45EB-866B-E8CBD87947D5}|DynamickeStrukturyList\\DynamickeStrukturyList.csproj|solutionrelative:dynamickestrukturylist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\delta materialy\\_25_26\\1. rocnik\\kody_z_hodin\\25-26_Hr_PR1_1As1_Vyuka\\DynamickeStrukturyList\\DynamickeStrukturyList\\Program.cs",
+              "RelativeDocumentMoniker": "DynamickeStrukturyList\\Program.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\delta materialy\\_25_26\\1. rocnik\\kody_z_hodin\\25-26_Hr_PR1_1As1_Vyuka\\DynamickeStrukturyList\\DynamickeStrukturyList\\Program.cs",
+              "RelativeToolTip": "DynamickeStrukturyList\\Program.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-27T11:01:50.521Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
