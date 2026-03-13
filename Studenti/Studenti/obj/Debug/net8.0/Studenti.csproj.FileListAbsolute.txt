@@ -1,0 +1,15 @@
+C:\Users\admin\Desktop\delta materialy\_25_26\1. rocnik\kody_z_hodin\25-26_Hr_PR1_1As1_Vyuka\Studenti\Studenti\obj\Debug\net8.0\Studenti.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\delta materialy\_25_26\1. rocnik\kody_z_hodin\25-26_Hr_PR1_1As1_Vyuka\Studenti\Studenti\obj\Debug\net8.0\Studenti.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\delta materialy\_25_26\1. rocnik\kody_z_hodin\25-26_Hr_PR1_1As1_Vyuka\Studenti\Studenti\obj\Debug\net8.0\Studenti.AssemblyInfo.cs
+C:\Users\admin\Desktop\delta materialy\_25_26\1. rocnik\kody_z_hodin\25-26_Hr_PR1_1As1_Vyuka\Studenti\Studenti\obj\Debug\net8.0\Studenti.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\delta materialy\_25_26\1. rocnik\kody_z_hodin\25-26_Hr_PR1_1As1_Vyuka\Studenti\Studenti\obj\Debug\net8.0\Studenti.sourcelink.json
+C:\Users\admin\Desktop\delta materialy\_25_26\1. rocnik\kody_z_hodin\25-26_Hr_PR1_1As1_Vyuka\Studenti\Studenti\bin\Debug\net8.0\Studenti.exe
+C:\Users\admin\Desktop\delta materialy\_25_26\1. rocnik\kody_z_hodin\25-26_Hr_PR1_1As1_Vyuka\Studenti\Studenti\bin\Debug\net8.0\Studenti.deps.json
+C:\Users\admin\Desktop\delta materialy\_25_26\1. rocnik\kody_z_hodin\25-26_Hr_PR1_1As1_Vyuka\Studenti\Studenti\bin\Debug\net8.0\Studenti.runtimeconfig.json
+C:\Users\admin\Desktop\delta materialy\_25_26\1. rocnik\kody_z_hodin\25-26_Hr_PR1_1As1_Vyuka\Studenti\Studenti\bin\Debug\net8.0\Studenti.dll
+C:\Users\admin\Desktop\delta materialy\_25_26\1. rocnik\kody_z_hodin\25-26_Hr_PR1_1As1_Vyuka\Studenti\Studenti\bin\Debug\net8.0\Studenti.pdb
+C:\Users\admin\Desktop\delta materialy\_25_26\1. rocnik\kody_z_hodin\25-26_Hr_PR1_1As1_Vyuka\Studenti\Studenti\obj\Debug\net8.0\Studenti.dll
+C:\Users\admin\Desktop\delta materialy\_25_26\1. rocnik\kody_z_hodin\25-26_Hr_PR1_1As1_Vyuka\Studenti\Studenti\obj\Debug\net8.0\refint\Studenti.dll
+C:\Users\admin\Desktop\delta materialy\_25_26\1. rocnik\kody_z_hodin\25-26_Hr_PR1_1As1_Vyuka\Studenti\Studenti\obj\Debug\net8.0\Studenti.pdb
+C:\Users\admin\Desktop\delta materialy\_25_26\1. rocnik\kody_z_hodin\25-26_Hr_PR1_1As1_Vyuka\Studenti\Studenti\obj\Debug\net8.0\Studenti.genruntimeconfig.cache
+C:\Users\admin\Desktop\delta materialy\_25_26\1. rocnik\kody_z_hodin\25-26_Hr_PR1_1As1_Vyuka\Studenti\Studenti\obj\Debug\net8.0\ref\Studenti.dll
