@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\admin\\Desktop\\delta materialy\\_25_26\\1. rocnik\\kody_z_hodin\\25-26_Hr_PR1_1As1_Vyuka\\EvidenceZapasu\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9CFF4D30-7EAA-4EA9-A4DE-DD2F0DB63A31}|EvidenceZapasu\\EvidenceZapasu.csproj|c:\\users\\admin\\desktop\\delta materialy\\_25_26\\1. rocnik\\kody_z_hodin\\25-26_hr_pr1_1as1_vyuka\\evidencezapasu\\evidencezapasu\\tym.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CFF4D30-7EAA-4EA9-A4DE-DD2F0DB63A31}|EvidenceZapasu\\EvidenceZapasu.csproj|solutionrelative:evidencezapasu\\tym.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CFF4D30-7EAA-4EA9-A4DE-DD2F0DB63A31}|EvidenceZapasu\\EvidenceZapasu.csproj|c:\\users\\admin\\desktop\\delta materialy\\_25_26\\1. rocnik\\kody_z_hodin\\25-26_hr_pr1_1as1_vyuka\\evidencezapasu\\evidencezapasu\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CFF4D30-7EAA-4EA9-A4DE-DD2F0DB63A31}|EvidenceZapasu\\EvidenceZapasu.csproj|solutionrelative:evidencezapasu\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CFF4D30-7EAA-4EA9-A4DE-DD2F0DB63A31}|EvidenceZapasu\\EvidenceZapasu.csproj|c:\\users\\admin\\desktop\\delta materialy\\_25_26\\1. rocnik\\kody_z_hodin\\25-26_hr_pr1_1as1_vyuka\\evidencezapasu\\evidencezapasu\\hrac.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CFF4D30-7EAA-4EA9-A4DE-DD2F0DB63A31}|EvidenceZapasu\\EvidenceZapasu.csproj|solutionrelative:evidencezapasu\\hrac.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Tym.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\delta materialy\\_25_26\\1. rocnik\\kody_z_hodin\\25-26_Hr_PR1_1As1_Vyuka\\EvidenceZapasu\\EvidenceZapasu\\Tym.cs",
+              "RelativeDocumentMoniker": "EvidenceZapasu\\Tym.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\delta materialy\\_25_26\\1. rocnik\\kody_z_hodin\\25-26_Hr_PR1_1As1_Vyuka\\EvidenceZapasu\\EvidenceZapasu\\Tym.cs",
+              "RelativeToolTip": "EvidenceZapasu\\Tym.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-20T11:54:01.601Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Hrac.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\delta materialy\\_25_26\\1. rocnik\\kody_z_hodin\\25-26_Hr_PR1_1As1_Vyuka\\EvidenceZapasu\\EvidenceZapasu\\Hrac.cs",
+              "RelativeDocumentMoniker": "EvidenceZapasu\\Hrac.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\delta materialy\\_25_26\\1. rocnik\\kody_z_hodin\\25-26_Hr_PR1_1As1_Vyuka\\EvidenceZapasu\\EvidenceZapasu\\Hrac.cs",
+              "RelativeToolTip": "EvidenceZapasu\\Hrac.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAAAEIAAACXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-20T11:32:20.436Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\delta materialy\\_25_26\\1. rocnik\\kody_z_hodin\\25-26_Hr_PR1_1As1_Vyuka\\EvidenceZapasu\\EvidenceZapasu\\Program.cs",
+              "RelativeDocumentMoniker": "EvidenceZapasu\\Program.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\delta materialy\\_25_26\\1. rocnik\\kody_z_hodin\\25-26_Hr_PR1_1As1_Vyuka\\EvidenceZapasu\\EvidenceZapasu\\Program.cs",
+              "RelativeToolTip": "EvidenceZapasu\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-20T11:26:29.59Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

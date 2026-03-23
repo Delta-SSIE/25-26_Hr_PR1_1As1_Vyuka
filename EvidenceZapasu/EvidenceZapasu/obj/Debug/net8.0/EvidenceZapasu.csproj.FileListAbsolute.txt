@@ -1,0 +1,15 @@
+C:\Users\admin\Desktop\delta materialy\_25_26\1. rocnik\kody_z_hodin\25-26_Hr_PR1_1As1_Vyuka\EvidenceZapasu\EvidenceZapasu\obj\Debug\net8.0\EvidenceZapasu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\delta materialy\_25_26\1. rocnik\kody_z_hodin\25-26_Hr_PR1_1As1_Vyuka\EvidenceZapasu\EvidenceZapasu\obj\Debug\net8.0\EvidenceZapasu.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\delta materialy\_25_26\1. rocnik\kody_z_hodin\25-26_Hr_PR1_1As1_Vyuka\EvidenceZapasu\EvidenceZapasu\obj\Debug\net8.0\EvidenceZapasu.AssemblyInfo.cs
+C:\Users\admin\Desktop\delta materialy\_25_26\1. rocnik\kody_z_hodin\25-26_Hr_PR1_1As1_Vyuka\EvidenceZapasu\EvidenceZapasu\obj\Debug\net8.0\EvidenceZapasu.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\delta materialy\_25_26\1. rocnik\kody_z_hodin\25-26_Hr_PR1_1As1_Vyuka\EvidenceZapasu\EvidenceZapasu\obj\Debug\net8.0\EvidenceZapasu.sourcelink.json
+C:\Users\admin\Desktop\delta materialy\_25_26\1. rocnik\kody_z_hodin\25-26_Hr_PR1_1As1_Vyuka\EvidenceZapasu\EvidenceZapasu\bin\Debug\net8.0\EvidenceZapasu.exe
+C:\Users\admin\Desktop\delta materialy\_25_26\1. rocnik\kody_z_hodin\25-26_Hr_PR1_1As1_Vyuka\EvidenceZapasu\EvidenceZapasu\bin\Debug\net8.0\EvidenceZapasu.deps.json
+C:\Users\admin\Desktop\delta materialy\_25_26\1. rocnik\kody_z_hodin\25-26_Hr_PR1_1As1_Vyuka\EvidenceZapasu\EvidenceZapasu\bin\Debug\net8.0\EvidenceZapasu.runtimeconfig.json
+C:\Users\admin\Desktop\delta materialy\_25_26\1. rocnik\kody_z_hodin\25-26_Hr_PR1_1As1_Vyuka\EvidenceZapasu\EvidenceZapasu\bin\Debug\net8.0\EvidenceZapasu.dll
+C:\Users\admin\Desktop\delta materialy\_25_26\1. rocnik\kody_z_hodin\25-26_Hr_PR1_1As1_Vyuka\EvidenceZapasu\EvidenceZapasu\bin\Debug\net8.0\EvidenceZapasu.pdb
+C:\Users\admin\Desktop\delta materialy\_25_26\1. rocnik\kody_z_hodin\25-26_Hr_PR1_1As1_Vyuka\EvidenceZapasu\EvidenceZapasu\obj\Debug\net8.0\EvidenceZapasu.dll
+C:\Users\admin\Desktop\delta materialy\_25_26\1. rocnik\kody_z_hodin\25-26_Hr_PR1_1As1_Vyuka\EvidenceZapasu\EvidenceZapasu\obj\Debug\net8.0\refint\EvidenceZapasu.dll
+C:\Users\admin\Desktop\delta materialy\_25_26\1. rocnik\kody_z_hodin\25-26_Hr_PR1_1As1_Vyuka\EvidenceZapasu\EvidenceZapasu\obj\Debug\net8.0\EvidenceZapasu.pdb
+C:\Users\admin\Desktop\delta materialy\_25_26\1. rocnik\kody_z_hodin\25-26_Hr_PR1_1As1_Vyuka\EvidenceZapasu\EvidenceZapasu\obj\Debug\net8.0\EvidenceZapasu.genruntimeconfig.cache
+C:\Users\admin\Desktop\delta materialy\_25_26\1. rocnik\kody_z_hodin\25-26_Hr_PR1_1As1_Vyuka\EvidenceZapasu\EvidenceZapasu\obj\Debug\net8.0\ref\EvidenceZapasu.dll
