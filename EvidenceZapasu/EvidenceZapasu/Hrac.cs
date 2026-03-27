@@ -28,6 +28,7 @@ namespace EvidenceZapasu
             this.prijmeni = pr;
             this.velikostDresu = vel;
         }
+        
         public int getCislo()
         {
             return this.cislo;

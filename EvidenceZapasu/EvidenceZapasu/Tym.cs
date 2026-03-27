@@ -10,11 +10,33 @@ namespace EvidenceZapasu
     {
         private string nazev;
         private List<Hrac> seznamHracu;
-
+       
         public Tym (string nazev)
         {
          this.nazev = nazev;  
          seznamHracu = new List<Hrac> ();
+        }
+
+        public Tym()
+        {
+            this.nazev = "prazdny";
+            seznamHracu = new List<Hrac>();
+        }
+
+        public string GetNazev() { 
+        return this.nazev;
+        }
+        public List<Hrac> GetHraci()
+        {
+            return this.seznamHracu;
+        }
+        public void SetNazev(string nazev)
+        {
+            this.nazev = nazev;
+        }
+        public void SetHrac(Hrac h)
+        {
+            this.seznamHracu.Add(h);
         }
     }
 }
