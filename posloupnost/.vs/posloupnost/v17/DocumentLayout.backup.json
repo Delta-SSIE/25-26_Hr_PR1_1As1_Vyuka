@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\admin\\Desktop\\delta materialy\\_25_26\\1. rocnik\\kody_z_hodin\\25-26_Hr_PR1_1As1_Vyuka\\posloupnost\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6CA1E1DE-6E0C-4ECA-A29D-49737D5565A1}|posloupnost\\posloupnost.csproj|c:\\users\\admin\\desktop\\delta materialy\\_25_26\\1. rocnik\\kody_z_hodin\\25-26_hr_pr1_1as1_vyuka\\posloupnost\\posloupnost\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CA1E1DE-6E0C-4ECA-A29D-49737D5565A1}|posloupnost\\posloupnost.csproj|solutionrelative:posloupnost\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\delta materialy\\_25_26\\1. rocnik\\kody_z_hodin\\25-26_Hr_PR1_1As1_Vyuka\\posloupnost\\posloupnost\\Program.cs",
+              "RelativeDocumentMoniker": "posloupnost\\Program.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\delta materialy\\_25_26\\1. rocnik\\kody_z_hodin\\25-26_Hr_PR1_1As1_Vyuka\\posloupnost\\posloupnost\\Program.cs",
+              "RelativeToolTip": "posloupnost\\Program.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAABkAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-31T04:35:55.513Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -38,5 +38,11 @@ namespace EvidenceZapasu
         {
             this.seznamHracu.Add(h);
         }
+
+        public Hrac NajdiHrace(int cislo)
+        {
+           Hrac nalezen = this.seznamHracu.Find(h => h.getCislo() == cislo);
+            return nalezen;
+        }
     }
 }

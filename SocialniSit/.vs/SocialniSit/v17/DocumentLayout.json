@@ -1,0 +1,89 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\admin\\Desktop\\delta materialy\\_25_26\\1. rocnik\\kody_z_hodin\\25-26_Hr_PR1_1As1_Vyuka\\SocialniSit\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6820ADD3-C8EC-48A6-895A-25FFF30B3918}|SocialniSit\\SocialniSit.csproj|c:\\users\\admin\\desktop\\delta materialy\\_25_26\\1. rocnik\\kody_z_hodin\\25-26_hr_pr1_1as1_vyuka\\socialnisit\\socialnisit\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6820ADD3-C8EC-48A6-895A-25FFF30B3918}|SocialniSit\\SocialniSit.csproj|solutionrelative:socialnisit\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6820ADD3-C8EC-48A6-895A-25FFF30B3918}|SocialniSit\\SocialniSit.csproj|c:\\users\\admin\\desktop\\delta materialy\\_25_26\\1. rocnik\\kody_z_hodin\\25-26_hr_pr1_1as1_vyuka\\socialnisit\\socialnisit\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6820ADD3-C8EC-48A6-895A-25FFF30B3918}|SocialniSit\\SocialniSit.csproj|solutionrelative:socialnisit\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6820ADD3-C8EC-48A6-895A-25FFF30B3918}|SocialniSit\\SocialniSit.csproj|c:\\users\\admin\\desktop\\delta materialy\\_25_26\\1. rocnik\\kody_z_hodin\\25-26_hr_pr1_1as1_vyuka\\socialnisit\\socialnisit\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6820ADD3-C8EC-48A6-895A-25FFF30B3918}|SocialniSit\\SocialniSit.csproj|solutionrelative:socialnisit\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6820ADD3-C8EC-48A6-895A-25FFF30B3918}|SocialniSit\\SocialniSit.csproj|c:\\users\\admin\\desktop\\delta materialy\\_25_26\\1. rocnik\\kody_z_hodin\\25-26_hr_pr1_1as1_vyuka\\socialnisit\\socialnisit\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6820ADD3-C8EC-48A6-895A-25FFF30B3918}|SocialniSit\\SocialniSit.csproj|solutionrelative:socialnisit\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Post.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\delta materialy\\_25_26\\1. rocnik\\kody_z_hodin\\25-26_Hr_PR1_1As1_Vyuka\\SocialniSit\\SocialniSit\\Post.cs",
+              "RelativeDocumentMoniker": "SocialniSit\\Post.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\delta materialy\\_25_26\\1. rocnik\\kody_z_hodin\\25-26_Hr_PR1_1As1_Vyuka\\SocialniSit\\SocialniSit\\Post.cs",
+              "RelativeToolTip": "SocialniSit\\Post.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAA8wCkAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-20T09:42:52.782Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Comment.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\delta materialy\\_25_26\\1. rocnik\\kody_z_hodin\\25-26_Hr_PR1_1As1_Vyuka\\SocialniSit\\SocialniSit\\Comment.cs",
+              "RelativeDocumentMoniker": "SocialniSit\\Comment.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\delta materialy\\_25_26\\1. rocnik\\kody_z_hodin\\25-26_Hr_PR1_1As1_Vyuka\\SocialniSit\\SocialniSit\\Comment.cs",
+              "RelativeToolTip": "SocialniSit\\Comment.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBYAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-20T09:45:12.556Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\delta materialy\\_25_26\\1. rocnik\\kody_z_hodin\\25-26_Hr_PR1_1As1_Vyuka\\SocialniSit\\SocialniSit\\User.cs",
+              "RelativeDocumentMoniker": "SocialniSit\\User.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\delta materialy\\_25_26\\1. rocnik\\kody_z_hodin\\25-26_Hr_PR1_1As1_Vyuka\\SocialniSit\\SocialniSit\\User.cs",
+              "RelativeToolTip": "SocialniSit\\User.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAcwBoAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-20T09:41:01.671Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\delta materialy\\_25_26\\1. rocnik\\kody_z_hodin\\25-26_Hr_PR1_1As1_Vyuka\\SocialniSit\\SocialniSit\\Program.cs",
+              "RelativeDocumentMoniker": "SocialniSit\\Program.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\delta materialy\\_25_26\\1. rocnik\\kody_z_hodin\\25-26_Hr_PR1_1As1_Vyuka\\SocialniSit\\SocialniSit\\Program.cs",
+              "RelativeToolTip": "SocialniSit\\Program.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAiwBEAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-20T09:38:05.07Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

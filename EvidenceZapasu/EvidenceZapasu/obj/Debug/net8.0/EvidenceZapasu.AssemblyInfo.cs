@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("EvidenceZapasu")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6687a1bfde6b9ff478637e3be35c186ef28f4ce6")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+efc3bb5d771ed446059c4d742609bc8d4e45083b")]
 [assembly: System.Reflection.AssemblyProductAttribute("EvidenceZapasu")]
 [assembly: System.Reflection.AssemblyTitleAttribute("EvidenceZapasu")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
